@@ -1,0 +1,58 @@
+main{
+      margin-top: 20px;
+      margin-bottom: 20px;
+}
+.nav-item :hover{
+      color: black;
+      font-weight: 500;
+}
+header{
+      background-color:rgb(0, 0, 66);
+      color: white;
+}
+.nav-link{
+      color: white;
+}
+#carouselExampleCaptions{
+      margin: 2px 0;
+      border: 2px solid black;
+      border-radius: 6px;
+}
+.col-md-6{
+      border: 2px solid wheat;
+} 
+footer{
+      background-color: rgb(0, 0, 66);
+      color: white;
+      text-decoration: none;
+}
+footer a{
+text-decoration: none;
+}
+footer a:hover{
+      font-weight: 500;
+      color: black;
+}
+.navbar-toggler-icon{
+      color: black;
+      border: 2px solid beige;
+      border-radius: 5px;
+}
+.navbar-toggler {
+      color: white;
+}
+.navbar-brand{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      margin-left: 5px;
+}
+.red-star {
+      color: red;
+  }
+  .required-field::before {
+      content: "*";
+      color: red;
+      float: right;
+    }

@@ -1,0 +1,36 @@
+.nav-item :hover{
+      color: black;
+      font-weight: 500;
+}
+header{
+      background-color:rgb(0, 0, 66);
+      color: white;
+}
+#carouselExampleCaptions{
+      margin: 2px 0;
+      border: 2px solid black;
+      border-radius: 6px;
+}
+.col-md-6{
+      border: 2px solid wheat;
+} 
+footer{
+      background-color: rgb(0, 0, 66);
+      color: white;
+      text-decoration: none;
+}
+footer a{
+text-decoration: none;
+}
+footer a:hover{
+      font-weight: 500;
+      color: black;
+}
+.navbar-toggler-icon{
+      color: black;
+      border: 2px solid beige;
+      border-radius: 5px;
+}
+img{
+      margin: 10px ;
+}
